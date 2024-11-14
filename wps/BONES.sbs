@@ -46,7 +46,7 @@
 %Vl(usbScreen,30,30,260,-,3)
 %acUSB%Vs(invert)
 #
-%Vl(usbScreen,30,200,260,-,3)
+%Vl(usbScreen,30,200,260,-,2)
 %ac EJECT BEFORE DISCONNECTING
 #
 #__Skull
